@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BarScanner</string>
+    <string name="edit">Editer un produit</string>
+    <string name="display">Chercher un produit</string>
+    <string name="search">Rechercher</string>
+    <string name="refSearch">Veuillez entrer la référence du produit</string>
+    <string name="title_activity_manage_db">ManageDbActivity</string>
+    <string name="gestion_de_la_base_de_donn_e">Gestion de la base de donnée</string>
+    <string name="reference">Référence</string>
+    <string name="entrez_lareference">Entrez la référence</string>
+    <string name="scan">SCAN</string>
+    <string name="stock">Stock</string>
+    <string name="entrez_le_stock">Entrez le stock</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="reinitialiser_la_base_de_donn_e">Réinitialiser la base de donnée</string>
+    <string name="exporter_la_base_de_donn_e">Exporter la base de donnée</string>
+    <string name="importer_une_base_de_donn_e">Importer une base de donnée</string>
+
+</resources>
